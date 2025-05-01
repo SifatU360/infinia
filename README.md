@@ -1,6 +1,6 @@
 # Infinia AI Assistant
 
-![Infinia Logo](public/infinia-logo.png)
+![Infinia Logo](src/assets/infinia.png)
 
 ## 🌟 Overview
 
