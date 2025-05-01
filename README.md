@@ -84,6 +84,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Project Link: [https://github.com/SifatU360/infinia.git](https://github.com/SifatU360/infinia.git)
 
+Live Link: [https://infinia-phi.vercel.app/](https://infinia-phi.vercel.app/)
+
 ---
 
 Made with ❤️ by Sifat Ullah
